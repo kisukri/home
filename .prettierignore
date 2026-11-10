@@ -1,0 +1,7 @@
+dist
+pnpm-lock.yaml
+src/assets/signature.ts
+tools/signature
+public
+test-results
+playwright-report

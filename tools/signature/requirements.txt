@@ -1,0 +1,6 @@
+fonttools
+brotli
+scikit-image
+scipy
+numpy
+pillow
