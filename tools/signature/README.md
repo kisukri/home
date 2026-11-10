@@ -5,7 +5,7 @@ Scripts that generate the handwritten signature paths in `src/assets/signature.t
 ## Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install fonttools brotli scikit-image scipy numpy pillow
 ```
 
 Run `pnpm install` in the repository root first (rendering uses the project's Playwright), and install `@fontsource/sacramento` temporarily for the font file.
