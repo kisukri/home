@@ -59,7 +59,7 @@ export const site: SiteConfig = {
       name: 'Daily',
       links: [
         { name: 'Blog', url: 'https://blog.ialue.com/', icon: PhArticle },
-        { name: 'Status', url: 'https://status.ialue.com/', icon: PhHardDrives },
+        { name: 'Status', url: 'https://s.uk.uy/', icon: PhHardDrives },
         { name: 'Start', url: 'https://nav.ialue.com/', icon: PhCompass },
         { name: 'Uptime', url: 'https://uptime.ialue.com/', icon: PhHeartbeat },
         { name: 'Network', url: 'https://bgp.tn/', icon: PhNetwork },
@@ -69,7 +69,7 @@ export const site: SiteConfig = {
     {
       name: 'Tools',
       links: [
-        { name: 'Matrix', url: 'https://matrix.ialue.com/', icon: PhChatsCircle },
+        { name: 'Matrix', url: 'https://m.uk.uy/', icon: PhChatsCircle },
         { name: 'Code', url: 'https://code.ialue.com/', icon: PhCode },
         { name: 'Dev', url: 'https://dev.uk.cd/', icon: PhGitBranch },
         { name: '2FA', url: 'https://2fa.pgp.im/', icon: PhShieldCheck },
